@@ -935,7 +935,7 @@ export default function Home() {
 
           <div className="flex shrink-0 items-center justify-center gap-1.5 border-t border-slate-100 bg-white px-3 py-2 text-[10px] text-slate-400">
             <Icon name="shield" size={12} />
-            Predefined answers • Verify official information
+            Predefined answers
           </div>
         </section>
       )}
