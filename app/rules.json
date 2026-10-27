@@ -1,0 +1,104 @@
+
+[
+  {
+    "intent": "admission",
+    "keywords": [
+      "admission",
+      "admissions",
+      "apply",
+      "applying",
+      "application",
+      "enrolment",
+      "enrollment",
+      "how can i apply",
+      "i want to apply",
+      "admission requirements",
+      "admission process",
+      "admission eligibility",
+      "admission deadline"
+    ],
+    "reply": "For University of Sargodha admissions, begin by checking the official university website at su.edu.pk for announced programmes, eligibility criteria, application procedures and deadlines. Requirements and admission schedules can differ by programme and intake. Please verify the current admission notice before applying."
+  },
+  {
+    "intent": "fee",
+    "keywords": [
+      "fee",
+      "fees",
+      "fee structure",
+      "semester fee",
+      "semester fees",
+      "tuition",
+      "tuition fee",
+      "tuition fees",
+      "how much does it cost",
+      "study cost",
+      "admission fee",
+      "fee payment",
+      "payment challan",
+      "challan",
+      "dues"
+    ],
+    "reply": "University of Sargodha fee amounts depend on your degree programme, study category and academic session. To get an accurate amount, consult the latest official fee structure or your department's authorised admission information. Always confirm payment deadlines and challan details through official university channels."
+  },
+  {
+    "intent": "timing",
+    "keywords": [
+      "university timings",
+      "university timing",
+      "campus timing",
+      "campus timings",
+      "class timing",
+      "class timings",
+      "class schedule",
+      "class timetable",
+      "lecture schedule",
+      "lecture timings",
+      "opening hours",
+      "campus hours",
+      "university hours",
+      "what time do classes start",
+      "when do classes start",
+      "when does campus open",
+      "working hours"
+    ],
+    "reply": "Class timetables and office operating hours at the University of Sargodha may differ by department, semester and academic calendar. Please check your department's current timetable or contact the relevant university office for confirmed hours. This demonstration chatbot does not publish unverified opening times."
+  },
+  {
+    "intent": "library",
+    "keywords": [
+      "library",
+      "libraries",
+      "library card",
+      "library membership",
+      "borrow books",
+      "borrow a book",
+      "return books",
+      "issue books",
+      "reading room",
+      "study resources",
+      "digital library",
+      "library access",
+      "library timings"
+    ],
+    "reply": "For University of Sargodha library facilities, students should consult the university's official library information or visit the relevant library desk. Ask the library staff about membership, borrowing eligibility, book returns, study spaces, digital resources and current opening hours. Availability and borrowing rules may change."
+  },
+  {
+    "intent": "hostel",
+    "keywords": [
+      "hostel",
+      "hostels",
+      "accommodation",
+      "student accommodation",
+      "student housing",
+      "hostel room",
+      "hostel admission",
+      "hostel fee",
+      "hostel fees",
+      "room allotment",
+      "hostel application",
+      "hostel facilities",
+      "hostel availability"
+    ],
+    "reply": "For University of Sargodha hostel accommodation, contact the authorised hostel administration or check the latest official student accommodation notices. Room eligibility, allotment procedures, charges and availability depend on university policies and the current session. Do not assume a room is available without confirmation."
+  }
+]
