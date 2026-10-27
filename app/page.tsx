@@ -765,9 +765,9 @@ export default function Home() {
             >
               Official University of Sargodha Website
             </a>
-            <p className="mt-3 text-xs">
-              © {new Date().getFullYear()} UOS CONNECT. Student project.
-            </p>
+           <p className="mt-3 text-xs">
+  © 2026 UOS CONNECT. Student project.
+</p>
           </div>
         </div>
       </footer>
